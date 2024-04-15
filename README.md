@@ -1,4 +1,4 @@
-# Thông Tin Thành Viên
+# I.Thông Tin Thành Viên
 ### Thành viên 1:
 * Nguyễn Minh Hòa
 * 18/10/2002
@@ -9,7 +9,7 @@
 * 08/10/2002
 * An Giang
 * Đại Học Công Nghệ Tp.HCM
-# Mô Tả Đề Tài
+# II.Mô Tả Đề Tài
 ## Trang web bán cây cảnh
  **Trang web bán cây cảnh là một nền tảng thương mại điện tử được xây dựng bằng JavaScript, cung cấp cho người dùng một trải nghiệm mua sắm thuận tiện và đa dạng trong việc chọn lựa các loại cây cảnh và phụ kiện đi kèm. Bên cạnh đó, trang web cũng cung cấp các chức năng quản lý sản phẩm và người dùng cho quản trị viên.**
 ### Chức năng cho người dùng
